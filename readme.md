@@ -4,7 +4,7 @@
 Wir möchten NutzerInnen und Interessierte der R-Software miteinander an der HdM miteinander vernetzen.
 
 
-##I. Softwareinstallation
+## I. Softwareinstallation
 
 1. Installation von R (aktuelle Version)
 https://cran.r-project.org/
@@ -21,7 +21,7 @@ b) Deducer http://www.deducer.org/pmwiki/index.php?n=Main.DeducerManual?from=Mai
 
 Beides sind GUIs die speziell für den Übergang von SPSS und/oder Excel geschrieben sind
 
-##II. Video-Einführungen 
+## II. Video-Einführungen 
 
 a) Lynda (mit Hochschulzugang)
 
@@ -54,32 +54,31 @@ Datacamp
 https://www.datacamp.com/courses/free-introduction-to-r
 
 
-##III. Einführungen (Literatur)
+## III. Einführungen (Literatur)
 
 Generelle Einführungen in R: 
 
-Installation und Co:
+*Installation und Co*
 Gute Übersicht bei RStudio
 https://www.rstudio.com/online-learning/
 
 Generell gilt für Statistik Andy Fields als der "Guru"
-https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067
+https://www.discoveringstatistics.com/books/an-adventure-in-statistics/
+https://github.com/profandyfield/adventr
 
-Aktuelle State of the Art für R
+*Aktuelle State of the Art für R*
 Introduction to Data Science / Hadley Wickham
 https://r4ds.had.co.nz/
 
-Generell würde ich Euch eine frühe Auseinandersetzung mit Markdown ans Herz legen!
-https://www.rstudio.com/online-learning/#Markdown
+*R-Markdown / R-Notebooks*
+Generell ist die Auszeichnung mit Markdowns sehr hilfreich:
+https://rmarkdown.rstudio.com/lesson-1.html
 
-Wir (Jan, Roland und ich) schreiben inzwischen komplette R Notebooks in Markdown (in sich geschlossene Codeumgebungen, in denen der Code direkt ausgegeben wird) für die Lehre. Diese eignen sich sehr gut für Selbstlernumgebungen.
+## IV. Selbstlernpakete direkt in R
 
-##IV. Selbstlernpakete direkt in R
-https://swirlstats.com/
+Interaktive Einführung für R in R: https://swirlstats.com/
+Eigene Tutorials schreiben: https://rstudio.github.io/learnr/
+Darauf basiert auch das Tutorial AdventR von Andy Fields: https://github.com/profandyfield/adventr
 
-Eigene Tutorials schreiben
-https://rstudio.github.io/learnr/
-
-V. Appetithappen
-Falls Ihr jetzt mehr Appetit bekommen habt: eine tolle Ressource ist der Aggregator R-Bloggers:
-https://www.r-bloggers.com/
+## V. Appetithappen
+Falls Ihr jetzt mehr Appetit bekommen habt: eine tolle Ressource ist der Aggregator R-Bloggers. Hier werden aktuelle Pakete und Entwicklungen rund um R diskutiert. https://www.r-bloggers.com/
