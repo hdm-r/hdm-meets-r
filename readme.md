@@ -4,7 +4,7 @@
 Wir möchten NutzerInnen und Interessierte der R-Software miteinander an der HdM miteinander vernetzen.
 
 
-I. Softwareinstallation
+##I. Softwareinstallation
 
 1. Installation von R (aktuelle Version)
 https://cran.r-project.org/
@@ -15,14 +15,13 @@ https://www.rstudio.com/products/rstudio/download/#download
 3. Installation von Add-ons (GUIs) für Personen, die mit anderen Plattformen bereits vertraut sind.
 
 a) Blueskystatistics (Migration von SPSS oder ähnlichen Tools, nur Windows)
-https://www.blueskystatistics.com/Articles.asp?ID=282
-alternativ
-b) Deducer
-http://www.deducer.org/pmwiki/index.php?n=Main.DeducerManual?from=Main.HomePage
+https://www.blueskystatistics.com/Articles.asp?ID=282  
+alternativ  
+b) Deducer http://www.deducer.org/pmwiki/index.php?n=Main.DeducerManual?from=Main.HomePage
 
 Beides sind GUIs die speziell für den Übergang von SPSS und/oder Excel geschrieben sind
 
-II. Video-Einführungen 
+##II. Video-Einführungen 
 
 a) Lynda (mit Hochschulzugang)
 
@@ -55,7 +54,7 @@ Datacamp
 https://www.datacamp.com/courses/free-introduction-to-r
 
 
-III. Einführungen (Literatur)
+##III. Einführungen (Literatur)
 
 Generelle Einführungen in R: 
 
@@ -75,7 +74,7 @@ https://www.rstudio.com/online-learning/#Markdown
 
 Wir (Jan, Roland und ich) schreiben inzwischen komplette R Notebooks in Markdown (in sich geschlossene Codeumgebungen, in denen der Code direkt ausgegeben wird) für die Lehre. Diese eignen sich sehr gut für Selbstlernumgebungen.
 
-IV. Selbstlernpakete direkt in R
+##IV. Selbstlernpakete direkt in R
 https://swirlstats.com/
 
 Eigene Tutorials schreiben
