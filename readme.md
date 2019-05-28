@@ -53,6 +53,9 @@ c) Kommerzielle Kurse/Plattformen
 Datacamp
 https://www.datacamp.com/courses/free-introduction-to-r
 
+Futurelearn
+https://www.futurelearn.com/courses/data-science
+
 
 ## III. Einführungen (Literatur)
 
