@@ -40,18 +40,17 @@ https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html
 
 b) Offene Einführungen
 
-R Programming 101
+- R Programming 101  
 Sehenswerter Youtube Channel mit grundlegender Einführung
 https://www.youtube.com/channel/UCfJyQ3P2k_SuqfxVdqIEQNw
 
-Learn R from Scratch
+- Learn R from Scratch  
 Offener Youtube Channel, vertiefende Inhalte bei Udemy
 https://www.youtube.com/user/TheLearnR
 
 c) Kommerzielle Kurse/Plattformen
 
-Datacamp
-https://www.datacamp.com/courses/free-introduction-to-r
+- Datacamp: https://www.datacamp.com/courses/free-introduction-to-r
 
 
 ## III. Einführungen (Literatur)
@@ -62,23 +61,27 @@ Generelle Einführungen in R:
 Gute Übersicht bei RStudio
 https://www.rstudio.com/online-learning/
 
-Generell gilt für Statistik Andy Fields als der "Guru"
-https://www.discoveringstatistics.com/books/an-adventure-in-statistics/
-https://github.com/profandyfield/adventr
+Generell gilt für Statistik Andy Fields als der "Guru"  
+- https://www.discoveringstatistics.com/books/an-adventure-in-statistics/  
+- https://github.com/profandyfield/adventr  
 
-*Aktuelle State of the Art für R*
-Introduction to Data Science / Hadley Wickham
-https://r4ds.had.co.nz/
+*Aktuelle State of the Art für R*  
+Introduction to Data Science / Hadley Wickham  
+- https://r4ds.had.co.nz/  
+
+*Statistical Thinking for the 21st Century*  
+Russell A. Poldrack liefert eine prima Einführung    
+https://statsthinking21.org/  
 
 *R-Markdown / R-Notebooks*
-Generell ist die Auszeichnung mit Markdowns sehr hilfreich:
-https://rmarkdown.rstudio.com/lesson-1.html
+Generell ist die Auszeichnung mit Markdowns sehr hilfreich:  
+https://rmarkdown.rstudio.com/lesson-1.html  
 
 ## IV. Selbstlernpakete direkt in R
 
-Interaktive Einführung für R in R: https://swirlstats.com/
-Eigene Tutorials schreiben: https://rstudio.github.io/learnr/
-Darauf basiert auch das Tutorial AdventR von Andy Fields: https://github.com/profandyfield/adventr
+- Interaktive Einführung für R in R: https://swirlstats.com/
+- Eigene Tutorials schreiben: https://rstudio.github.io/learnr/
+- Darauf basiert auch das Tutorial AdventR von Andy Fields: https://github.com/profandyfield/adventr
 
 ## V. Appetithappen
 Falls Ihr jetzt mehr Appetit bekommen habt: eine tolle Ressource ist der Aggregator R-Bloggers. Hier werden aktuelle Pakete und Entwicklungen rund um R diskutiert. https://www.r-bloggers.com/
