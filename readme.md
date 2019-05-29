@@ -3,6 +3,8 @@
 *Worum geht es?*
 Wir möchten NutzerInnen und Interessierte der R-Software miteinander an der HdM miteinander vernetzen.
 
+*Präsentationen des Kick-offs*
+https://github.com/hdm-r/hdm-meets-r/blob/master/2019-05%20HdMR%20Pra%CC%88sentation%20github.pdf
 
 ## I. Softwareinstallation
 
