@@ -6,6 +6,9 @@ Wir möchten NutzerInnen und Interessierte der R-Software miteinander an der HdM
 *Präsentationen des Kick-offs*
 https://github.com/hdm-r/hdm-meets-r/blob/master/2019-05%20HdMR%20Pra%CC%88sentation%20github.pdf
 
+*Vergleich gängier Software-Pakete (R, Python, SPSS, SAS)
+https://www.inwt-statistics.com/read-blog/comparison-of-r-python-sas-spss-and-stata.html
+
 ## I. Softwareinstallation
 
 1. Installation von R (aktuelle Version)
